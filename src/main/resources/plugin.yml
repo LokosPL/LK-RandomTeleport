@@ -1,0 +1,8 @@
+name: LK-RandomTeleport
+version: '${project.version}'
+main: xyz.lokos.randomTeleport.basic.Main
+api-version: 1.19
+prefix: LK-Plugins
+authors: [ Lokos ]
+description:
+  Survival-core to plugin stworzony przez developera Lokos. Kontakt mozliwy przez serwer mg-hc.pl, badz discord: Lokos#8885
